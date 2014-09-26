@@ -1,3 +1,13 @@
+#===============================================
+# Plotting TE correlation functions
+# genuplot:
+#
+# José Eugenio López Periago
+# Universidade de Vigo
+# vie sep 26 20:45:56 CEST 2014
+#===============================================
+
+
 set style line 1 lw 2 lc   rgb "red"  lt 1 pt 7
 set style line 2 lw 2 lc rgb "green" lt 1 pt 7
 set style line 3 lw 2 lc rgb "blue" lt 1  pt 7
