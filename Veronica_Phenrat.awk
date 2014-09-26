@@ -9,8 +9,7 @@
 
 	
 
-#This awk script calculates the single-collector contact efficiency (h0) based on the T&E correlation equation (eq 17 in above reference).  
-	
+
 # Parameter set for the Sepia Ink
 #----------------------------------------------------
 # Parameters		Units
