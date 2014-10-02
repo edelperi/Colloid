@@ -9,4 +9,4 @@ Verónica L. Morales,Wenjng Sang,Daniel R. Fuka, Leonard W. Lion, Bin Gao,and Ta
 Environ. Sci. Technol. 2011, 45, 10096–10101
 dx.doi.org/10.1021/es2023829
 
-usage "/home$ awk -f Veronica_Phenrat.awk > outfile"
+Usage: "/home$ awk -f Veronica_Phenrat.awk > outfile"
