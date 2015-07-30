@@ -67,7 +67,8 @@ for(I=1; I< 100; I++)
 q = var2;
 #U=var;
 
-#q = var; #q= 1.3e-5; #Cobertura de polímero (kg m^2)
+# Options for polymer coating
+#q = var; #q= 1.3e-5; #Poliomer coating  (kg m^2)
 
 
 #Cálculo de funciones
