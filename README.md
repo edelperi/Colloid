@@ -1,6 +1,4 @@
-This set of scripts, written in awk calculate the single-collector contact efficiency (h0) based on the T&E correlation equation (eq 17 in the reference shown below).
-
-
+This set of scripts, written in awk, can be used for calculate the single-collector contact efficiency (q0) based on the Tufenki and Elimelech correlation equation (eq 17 in the reference shown below).
 
 References: Tufenkji and Elimelech, Environ. Sci. Technol. 2004, Vol. 38, pages 529-536.
 Correlation Equation for Predicting Attachment Efficiency (α) of Organic Matter-Colloid Complexes in Unsaturated Porous Media. 
