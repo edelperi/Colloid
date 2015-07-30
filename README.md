@@ -1,5 +1,8 @@
 This set of scripts, written in awk, can be used for calculate the single-collector contact efficiency (q0) based on the Tufenki and Elimelech correlation equation (eq 17 in the reference shown below).
 
+This version in under develompmento, some comments in the code  are written in Spanish. I expect translate them to standard english and implement the models for soft particles and polymer coatings.
+
+
 References: Tufenkji and Elimelech, Environ. Sci. Technol. 2004, Vol. 38, pages 529-536.
 Correlation Equation for Predicting Attachment Efficiency (α) of Organic Matter-Colloid Complexes in Unsaturated Porous Media. 
 
